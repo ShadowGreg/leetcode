@@ -1,0 +1,15 @@
+C:\workspace\leetcode\Longest Common Prefix\bin\Debug\net6.0\Longest Common Prefix.exe
+C:\workspace\leetcode\Longest Common Prefix\bin\Debug\net6.0\Longest Common Prefix.deps.json
+C:\workspace\leetcode\Longest Common Prefix\bin\Debug\net6.0\Longest Common Prefix.runtimeconfig.json
+C:\workspace\leetcode\Longest Common Prefix\bin\Debug\net6.0\Longest Common Prefix.dll
+C:\workspace\leetcode\Longest Common Prefix\bin\Debug\net6.0\Longest Common Prefix.pdb
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\Longest Common Prefix.csproj.AssemblyReference.cache
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\Longest Common Prefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\Longest Common Prefix.AssemblyInfoInputs.cache
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\Longest Common Prefix.AssemblyInfo.cs
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\Longest Common Prefix.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\Longest Common Prefix.dll
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\refint\Longest Common Prefix.dll
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\Longest Common Prefix.pdb
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\Longest Common Prefix.genruntimeconfig.cache
+C:\workspace\leetcode\Longest Common Prefix\obj\Debug\net6.0\ref\Longest Common Prefix.dll
