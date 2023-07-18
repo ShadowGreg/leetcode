@@ -1,0 +1,15 @@
+C:\workspace\leetcode\two-sum\bin\Debug\net6.0\two-sum.exe
+C:\workspace\leetcode\two-sum\bin\Debug\net6.0\two-sum.deps.json
+C:\workspace\leetcode\two-sum\bin\Debug\net6.0\two-sum.runtimeconfig.json
+C:\workspace\leetcode\two-sum\bin\Debug\net6.0\two-sum.dll
+C:\workspace\leetcode\two-sum\bin\Debug\net6.0\two-sum.pdb
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\two-sum.csproj.AssemblyReference.cache
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\two-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\two-sum.AssemblyInfoInputs.cache
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\two-sum.AssemblyInfo.cs
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\two-sum.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\two-sum.dll
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\refint\two-sum.dll
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\two-sum.pdb
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\two-sum.genruntimeconfig.cache
+C:\workspace\leetcode\two-sum\obj\Debug\net6.0\ref\two-sum.dll
