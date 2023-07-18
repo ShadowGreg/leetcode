@@ -1,4 +1,6 @@
-﻿public class Program {
+﻿using System.Data;
+
+public class Program {
     private static Solution _solution;
 
     public static void Main() {
@@ -6,40 +8,49 @@
 
         string thomthing = "()"; //true
         Console.WriteLine(_solution.IsValid(thomthing));
-        
+
         thomthing = "()[]{}"; //true
         Console.WriteLine(_solution.IsValid(thomthing));
 
         thomthing = "(]"; //false
         Console.WriteLine(_solution.IsValid(thomthing));
-        
+
         thomthing = "([)]"; //false
+        Console.WriteLine(_solution.IsValid(thomthing));
+
+        thomthing = "{[]}"; //true
+        Console.WriteLine(_solution.IsValid(thomthing));
+
+        thomthing = "(){}}{"; //false
         Console.WriteLine(_solution.IsValid(thomthing));
     }
 }
 
 public class Solution {
-    private List<char> _brackets = new List<char>() {
-        ' ', '(', ')', '[', ']', '{', '}'
-    };
-
     public bool IsValid(string s) {
-        int charIndex = 0;
-        for (int i = 0; i < s.Length - 1; i++) {
-            if (_brackets.Contains(s[i])) {
-                charIndex = _brackets.IndexOf(s[i]);
-                if (i == 0 && charIndex % 2 == 0) {
-                    return false;
-                }
+        // Get ready initial state (enforce element type)
+        var k = new Stack<char>();
+        // Evaluate each character for potential mismatch 
+        foreach (char c in s)
+        { // Push closing round bracket onto the stack
+          if (c == '(')
+          { k.Push(')');
+            continue; }
 
-                if (s.Contains(_brackets[charIndex + 1])) {
-                    break;
-                }
+          // Push closing curly bracket onto the stack
+          if (c == '{')
+          { k.Push('}');
+            continue; }
 
-                return false;
-            }
-        }
+          // Push closing square bracket onto the stack
+          if (c == '[')
+          { k.Push(']');
+            continue; }
 
-        return true;
+          // Look out for imbalanced strings or mismatches
+          if (k.Count == 0 || c != k.Pop()) return false; }
+
+        // Empty stack means string is valid and invalid otherwise
+        return k.Count == 0;
     }
 }
