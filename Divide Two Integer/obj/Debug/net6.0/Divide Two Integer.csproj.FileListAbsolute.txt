@@ -1,0 +1,15 @@
+C:\workspace\leetcode\Divide Two Integer\bin\Debug\net6.0\Divide Two Integer.exe
+C:\workspace\leetcode\Divide Two Integer\bin\Debug\net6.0\Divide Two Integer.deps.json
+C:\workspace\leetcode\Divide Two Integer\bin\Debug\net6.0\Divide Two Integer.runtimeconfig.json
+C:\workspace\leetcode\Divide Two Integer\bin\Debug\net6.0\Divide Two Integer.dll
+C:\workspace\leetcode\Divide Two Integer\bin\Debug\net6.0\Divide Two Integer.pdb
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\Divide Two Integer.csproj.AssemblyReference.cache
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\Divide Two Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\Divide Two Integer.AssemblyInfoInputs.cache
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\Divide Two Integer.AssemblyInfo.cs
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\Divide Two Integer.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\Divide Two Integer.dll
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\refint\Divide Two Integer.dll
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\Divide Two Integer.pdb
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\Divide Two Integer.genruntimeconfig.cache
+C:\workspace\leetcode\Divide Two Integer\obj\Debug\net6.0\ref\Divide Two Integer.dll

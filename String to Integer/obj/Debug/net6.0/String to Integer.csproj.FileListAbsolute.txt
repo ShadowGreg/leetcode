@@ -1,0 +1,15 @@
+C:\workspace\leetcode\String to Integer\bin\Debug\net6.0\String to Integer.exe
+C:\workspace\leetcode\String to Integer\bin\Debug\net6.0\String to Integer.deps.json
+C:\workspace\leetcode\String to Integer\bin\Debug\net6.0\String to Integer.runtimeconfig.json
+C:\workspace\leetcode\String to Integer\bin\Debug\net6.0\String to Integer.dll
+C:\workspace\leetcode\String to Integer\bin\Debug\net6.0\String to Integer.pdb
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\String to Integer.csproj.AssemblyReference.cache
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\String to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\String to Integer.AssemblyInfoInputs.cache
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\String to Integer.AssemblyInfo.cs
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\String to Integer.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\String to Integer.dll
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\refint\String to Integer.dll
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\String to Integer.pdb
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\String to Integer.genruntimeconfig.cache
+C:\workspace\leetcode\String to Integer\obj\Debug\net6.0\ref\String to Integer.dll
