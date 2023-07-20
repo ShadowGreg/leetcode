@@ -1,0 +1,15 @@
+C:\workspace\leetcode\Longest Palindromic Substring\bin\Debug\net6.0\Longest Palindromic Substring.exe
+C:\workspace\leetcode\Longest Palindromic Substring\bin\Debug\net6.0\Longest Palindromic Substring.deps.json
+C:\workspace\leetcode\Longest Palindromic Substring\bin\Debug\net6.0\Longest Palindromic Substring.runtimeconfig.json
+C:\workspace\leetcode\Longest Palindromic Substring\bin\Debug\net6.0\Longest Palindromic Substring.dll
+C:\workspace\leetcode\Longest Palindromic Substring\bin\Debug\net6.0\Longest Palindromic Substring.pdb
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\Longest Palindromic Substring.csproj.AssemblyReference.cache
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\Longest Palindromic Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\Longest Palindromic Substring.AssemblyInfoInputs.cache
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\Longest Palindromic Substring.AssemblyInfo.cs
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\Longest Palindromic Substring.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\Longest Palindromic Substring.dll
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\refint\Longest Palindromic Substring.dll
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\Longest Palindromic Substring.pdb
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\Longest Palindromic Substring.genruntimeconfig.cache
+C:\workspace\leetcode\Longest Palindromic Substring\obj\Debug\net6.0\ref\Longest Palindromic Substring.dll
