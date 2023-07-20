@@ -28,30 +28,25 @@ public class Program {
 
 public class Solution {
     public string LongestPalindrome(string s) {
-        if (s.Length == 1) {
-            return s;
-        }
+        int maxLength = 0, startIndex = 0;
+        for (int i = 0; i < s.Length; i++) {
+            int start = i, end = i;
+            
+            while (end < s.Length - 1 && s[start] == s[end + 1])
+                end++;
 
-        string temp = string.Join("", s.Reverse());
-        int length = s.Length;
-        int index = 0;
-        string ans = "";
-        while (index != length) {
-            for (int i = index; i <= length; i++) {
-                string tempSub = s[index..i];
-                if (!temp.Contains(tempSub)) continue;
-                if (s[index..i].Length > ans.Length && IsPalindrome(tempSub)) {
-                    ans = s[index..i];
-                }
+            
+            while (end < s.Length - 1 && start > 0 && s[start - 1] == s[end + 1]) {
+                start--;
+                end++;
             }
 
-            index++;
+            if (maxLength < end - start + 1) {
+                maxLength = end - start + 1;
+                startIndex = start;
+            }
         }
 
-        return ans;
-    }
-
-    public bool IsPalindrome(string s) {
-        return s.Equals(string.Join("", s.Reverse()));
+        return s.Substring(startIndex, maxLength);
     }
 }
