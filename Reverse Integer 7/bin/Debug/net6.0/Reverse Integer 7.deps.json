@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Reverse Integer 7/1.0.0": {
+        "runtime": {
+          "Reverse Integer 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reverse Integer 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

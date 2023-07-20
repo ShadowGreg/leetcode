@@ -1,0 +1,15 @@
+C:\workspace\leetcode\Reverse Integer 7\bin\Debug\net6.0\Reverse Integer 7.exe
+C:\workspace\leetcode\Reverse Integer 7\bin\Debug\net6.0\Reverse Integer 7.deps.json
+C:\workspace\leetcode\Reverse Integer 7\bin\Debug\net6.0\Reverse Integer 7.runtimeconfig.json
+C:\workspace\leetcode\Reverse Integer 7\bin\Debug\net6.0\Reverse Integer 7.dll
+C:\workspace\leetcode\Reverse Integer 7\bin\Debug\net6.0\Reverse Integer 7.pdb
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\Reverse Integer 7.csproj.AssemblyReference.cache
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\Reverse Integer 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\Reverse Integer 7.AssemblyInfoInputs.cache
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\Reverse Integer 7.AssemblyInfo.cs
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\Reverse Integer 7.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\Reverse Integer 7.dll
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\refint\Reverse Integer 7.dll
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\Reverse Integer 7.pdb
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\Reverse Integer 7.genruntimeconfig.cache
+C:\workspace\leetcode\Reverse Integer 7\obj\Debug\net6.0\ref\Reverse Integer 7.dll
