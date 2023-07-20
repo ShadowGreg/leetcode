@@ -3,7 +3,6 @@
 public class Program {
     private static Solution _solution;
 
-    [SuppressMessage("ReSharper.DPA", "DPA0002: Excessive memory allocations in SOH", MessageId = "type: ListNode")]
     public static void Main() {
         _solution = new Solution();
 
@@ -27,8 +26,8 @@ public class Program {
         ln1 = GetNode(l1);
         ln2 = GetNode(l2);
         answer = _solution.AddTwoNumbers(ln1, ln2);
-        while (answer.Next != null) {
-            Console.WriteLine(answer.Val);
+        while (answer.next != null) {
+            Console.WriteLine(answer.val);
         }
     }
 
@@ -43,46 +42,21 @@ public class Program {
 }
 
 public class ListNode {
-    public int Val { get; }
-    public ListNode? Next { get; }
+    public int val { get; }
+    public ListNode? next { get; }
 
     public ListNode(int val = 0, ListNode? next = null) {
-        Val = val;
-        Next = next;
+        val = val;
+        next = next;
     }
 }
 
 public class Solution {
-    public ListNode? AddTwoNumbers(ListNode? l1, ListNode? l2) {
-        ListNode? output = null;
-        int temp = 0;
-        int sum = 0;
-        while (l1.Next != null ^ l2.Next != null) {
-            if (l1.Next != null ^ l2.Next != null) {
-                if (l1.Next == null && l2.Next != null) {
-                    sum = temp + l2.Val;
-                }
-                else if (l2.Next == null && l1.Next != null) {
-                    sum = temp + l1.Val;
-                }
-                else if (l1.Next == null && l1.Next == null) {
-                    break;
-                }
-            }
-            else {
-                sum = temp;
-            }
+    public ListNode? AddTwoNumbers(ListNode? l1, ListNode? l2, int carry = 0) {
+        if (l1 == null && l2 == null && carry == 0) return null;
 
-            if (sum >= 10) {
-                int tempSum = sum / 10;
-                sum %= 10;
-                temp = tempSum;
-                tempSum = 0;
-            }
-
-            output = new ListNode(sum, output);
-        }
-
-        return output;
+        int total = (l1 != null ? l1.val : 0) + (l2 != null ? l2.val : 0) + carry;
+        carry = total / 10;
+        return new ListNode(total % 10, AddTwoNumbers(l1?.next, l2?.next, carry));
     }
 }
