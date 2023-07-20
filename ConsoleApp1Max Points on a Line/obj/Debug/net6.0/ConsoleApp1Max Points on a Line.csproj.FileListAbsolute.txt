@@ -1,0 +1,15 @@
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\bin\Debug\net6.0\ConsoleApp1Max Points on a Line.exe
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\bin\Debug\net6.0\ConsoleApp1Max Points on a Line.deps.json
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\bin\Debug\net6.0\ConsoleApp1Max Points on a Line.runtimeconfig.json
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\bin\Debug\net6.0\ConsoleApp1Max Points on a Line.dll
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\bin\Debug\net6.0\ConsoleApp1Max Points on a Line.pdb
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\ConsoleApp1Max Points on a Line.csproj.AssemblyReference.cache
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\ConsoleApp1Max Points on a Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\ConsoleApp1Max Points on a Line.AssemblyInfoInputs.cache
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\ConsoleApp1Max Points on a Line.AssemblyInfo.cs
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\ConsoleApp1Max Points on a Line.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\ConsoleApp1Max Points on a Line.dll
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\refint\ConsoleApp1Max Points on a Line.dll
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\ConsoleApp1Max Points on a Line.pdb
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\ConsoleApp1Max Points on a Line.genruntimeconfig.cache
+C:\workspace\leetcode\ConsoleApp1Max Points on a Line\obj\Debug\net6.0\ref\ConsoleApp1Max Points on a Line.dll
