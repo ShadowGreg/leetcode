@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers", "Add Two 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Median of Two Sorted Arrays - 4", "Median of Two Sorted Arrays - 4\Median of Two Sorted Arrays - 4.csproj", "{9B2E37EC-DD3C-405C-90F7-963CB67BE120}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Palindromic Substring", "Longest Palindromic Substring\Longest Palindromic Substring.csproj", "{ED7E4A29-CA30-4B9D-84FF-6FFA5E2BCB76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{9B2E37EC-DD3C-405C-90F7-963CB67BE120}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B2E37EC-DD3C-405C-90F7-963CB67BE120}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B2E37EC-DD3C-405C-90F7-963CB67BE120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7E4A29-CA30-4B9D-84FF-6FFA5E2BCB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7E4A29-CA30-4B9D-84FF-6FFA5E2BCB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7E4A29-CA30-4B9D-84FF-6FFA5E2BCB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7E4A29-CA30-4B9D-84FF-6FFA5E2BCB76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
