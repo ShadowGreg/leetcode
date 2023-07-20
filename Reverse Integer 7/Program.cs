@@ -12,18 +12,25 @@
 
 public class Solution {
     public int Reverse(int x) {
-        string temp = ("" + x);
-        string output = new(temp.Reverse().ToArray());
-        if (x < 0) {
-            return -IntegerParse(output);
+        int overflowLimit = int.MaxValue / 10;
+
+        var negative = x < 0;
+        if (negative)
+            x = -x;
+
+        int result = 0;
+        while (x > 0) {
+            if (result > overflowLimit)
+                return 0;
+
+            result = 10 * result + x % 10;
+
+            x = x / 10;
         }
 
-        return IntegerParse(output);
-    }
+        if (negative)
+            result = -result;
 
-    int IntegerParse(string text) {
-        int value;
-        int.TryParse(string.Join("", text.Where(c => char.IsDigit(c))), out value);
-        return value;
+        return result;
     }
 }
