@@ -1,0 +1,15 @@
+C:\workspace\leetcode\Zigzag Conversion 6\bin\Debug\net6.0\Zigzag Conversion 6.exe
+C:\workspace\leetcode\Zigzag Conversion 6\bin\Debug\net6.0\Zigzag Conversion 6.deps.json
+C:\workspace\leetcode\Zigzag Conversion 6\bin\Debug\net6.0\Zigzag Conversion 6.runtimeconfig.json
+C:\workspace\leetcode\Zigzag Conversion 6\bin\Debug\net6.0\Zigzag Conversion 6.dll
+C:\workspace\leetcode\Zigzag Conversion 6\bin\Debug\net6.0\Zigzag Conversion 6.pdb
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\Zigzag Conversion 6.csproj.AssemblyReference.cache
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\Zigzag Conversion 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\Zigzag Conversion 6.AssemblyInfoInputs.cache
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\Zigzag Conversion 6.AssemblyInfo.cs
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\Zigzag Conversion 6.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\Zigzag Conversion 6.dll
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\refint\Zigzag Conversion 6.dll
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\Zigzag Conversion 6.pdb
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\Zigzag Conversion 6.genruntimeconfig.cache
+C:\workspace\leetcode\Zigzag Conversion 6\obj\Debug\net6.0\ref\Zigzag Conversion 6.dll
