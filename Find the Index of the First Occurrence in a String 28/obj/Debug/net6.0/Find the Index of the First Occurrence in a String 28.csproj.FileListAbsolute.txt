@@ -1,0 +1,15 @@
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\bin\Debug\net6.0\Find the Index of the First Occurrence in a String 28.exe
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\bin\Debug\net6.0\Find the Index of the First Occurrence in a String 28.deps.json
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\bin\Debug\net6.0\Find the Index of the First Occurrence in a String 28.runtimeconfig.json
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\bin\Debug\net6.0\Find the Index of the First Occurrence in a String 28.dll
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\bin\Debug\net6.0\Find the Index of the First Occurrence in a String 28.pdb
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\Find the Index of the First Occurrence in a String 28.csproj.AssemblyReference.cache
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\Find the Index of the First Occurrence in a String 28.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\Find the Index of the First Occurrence in a String 28.AssemblyInfoInputs.cache
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\Find the Index of the First Occurrence in a String 28.AssemblyInfo.cs
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\Find the Index of the First Occurrence in a String 28.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\Find the Index of the First Occurrence in a String 28.dll
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\refint\Find the Index of the First Occurrence in a String 28.dll
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\Find the Index of the First Occurrence in a String 28.pdb
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\Find the Index of the First Occurrence in a String 28.genruntimeconfig.cache
+C:\workspace\leetcode\Find the Index of the First Occurrence in a String 28\obj\Debug\net6.0\ref\Find the Index of the First Occurrence in a String 28.dll
