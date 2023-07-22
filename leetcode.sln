@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zigzag Conversion 6", "Zigz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the Index of the First Occurrence in a String 28", "Find the Index of the First Occurrence in a String 28\Find the Index of the First Occurrence in a String 28.csproj", "{714CC904-D6B9-4DD4-BDB9-E812FCB3F96D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Container With Most Water 11", "Container With Most Water 11\Container With Most Water 11.csproj", "{5263F340-AD09-44F1-BB17-75BB5B85535E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{714CC904-D6B9-4DD4-BDB9-E812FCB3F96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{714CC904-D6B9-4DD4-BDB9-E812FCB3F96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{714CC904-D6B9-4DD4-BDB9-E812FCB3F96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5263F340-AD09-44F1-BB17-75BB5B85535E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5263F340-AD09-44F1-BB17-75BB5B85535E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5263F340-AD09-44F1-BB17-75BB5B85535E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5263F340-AD09-44F1-BB17-75BB5B85535E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
