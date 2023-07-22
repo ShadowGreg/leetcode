@@ -12,20 +12,21 @@
 
 public class Solution {
     public int MaxArea(int[] height) {
-        int length = 0,
-            heightLength = height.Length - 1,
+        int leftBorder = 0,
+            rightBorder = height.Length - 1,
             maxArea = 0;
-        while (length < heightLength) {
-            int currentMax = (heightLength - length) * Math.Min(height[length], height[heightLength]);
-            if (currentMax > maxArea)
-                maxArea = currentMax;
+        while (leftBorder < rightBorder) {
+            int currentArea = (rightBorder - leftBorder) * Math.Min(height[leftBorder], height[rightBorder]);
+            if (currentArea > maxArea)
+                maxArea = currentArea;
 
-            if (height[length] <= height[heightLength])
-                length++;
+            if (height[leftBorder] <= height[rightBorder])
+                leftBorder++;
             else
-                heightLength--;
+                rightBorder--;
         }
 
         return maxArea;
+        /// TODO повторить решение самому
     }
 }
