@@ -1,0 +1,15 @@
+C:\workspace\leetcode\Search Insert Position 35\bin\Debug\net6.0\Search Insert Position 35.exe
+C:\workspace\leetcode\Search Insert Position 35\bin\Debug\net6.0\Search Insert Position 35.deps.json
+C:\workspace\leetcode\Search Insert Position 35\bin\Debug\net6.0\Search Insert Position 35.runtimeconfig.json
+C:\workspace\leetcode\Search Insert Position 35\bin\Debug\net6.0\Search Insert Position 35.dll
+C:\workspace\leetcode\Search Insert Position 35\bin\Debug\net6.0\Search Insert Position 35.pdb
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\Search Insert Position 35.csproj.AssemblyReference.cache
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\Search Insert Position 35.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\Search Insert Position 35.AssemblyInfoInputs.cache
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\Search Insert Position 35.AssemblyInfo.cs
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\Search Insert Position 35.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\Search Insert Position 35.dll
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\refint\Search Insert Position 35.dll
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\Search Insert Position 35.pdb
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\Search Insert Position 35.genruntimeconfig.cache
+C:\workspace\leetcode\Search Insert Position 35\obj\Debug\net6.0\ref\Search Insert Position 35.dll

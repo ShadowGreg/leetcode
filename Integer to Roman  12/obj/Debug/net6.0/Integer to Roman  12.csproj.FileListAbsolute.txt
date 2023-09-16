@@ -1,0 +1,15 @@
+C:\workspace\leetcode\Integer to Roman  12\bin\Debug\net6.0\Integer to Roman  12.exe
+C:\workspace\leetcode\Integer to Roman  12\bin\Debug\net6.0\Integer to Roman  12.deps.json
+C:\workspace\leetcode\Integer to Roman  12\bin\Debug\net6.0\Integer to Roman  12.runtimeconfig.json
+C:\workspace\leetcode\Integer to Roman  12\bin\Debug\net6.0\Integer to Roman  12.dll
+C:\workspace\leetcode\Integer to Roman  12\bin\Debug\net6.0\Integer to Roman  12.pdb
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\Integer to Roman  12.csproj.AssemblyReference.cache
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\Integer to Roman  12.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\Integer to Roman  12.AssemblyInfoInputs.cache
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\Integer to Roman  12.AssemblyInfo.cs
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\Integer to Roman  12.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\Integer to Roman  12.dll
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\refint\Integer to Roman  12.dll
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\Integer to Roman  12.pdb
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\Integer to Roman  12.genruntimeconfig.cache
+C:\workspace\leetcode\Integer to Roman  12\obj\Debug\net6.0\ref\Integer to Roman  12.dll
