@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer to Roman  12", "Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search Insert Position 35", "Search Insert Position 35\Search Insert Position 35.csproj", "{3525EBF8-C6B3-49B1-9636-CC993EAEFD4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regular Expression Matching 10", "Regular Expression Matching 10\Regular Expression Matching 10.csproj", "{4D8C383E-3FE8-466B-BE5B-E6ABA89CF5D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{3525EBF8-C6B3-49B1-9636-CC993EAEFD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3525EBF8-C6B3-49B1-9636-CC993EAEFD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3525EBF8-C6B3-49B1-9636-CC993EAEFD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8C383E-3FE8-466B-BE5B-E6ABA89CF5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8C383E-3FE8-466B-BE5B-E6ABA89CF5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8C383E-3FE8-466B-BE5B-E6ABA89CF5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8C383E-3FE8-466B-BE5B-E6ABA89CF5D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

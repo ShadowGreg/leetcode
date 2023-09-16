@@ -1,0 +1,15 @@
+C:\workspace\leetcode\Regular Expression Matching 10\bin\Debug\net6.0\Regular Expression Matching 10.exe
+C:\workspace\leetcode\Regular Expression Matching 10\bin\Debug\net6.0\Regular Expression Matching 10.deps.json
+C:\workspace\leetcode\Regular Expression Matching 10\bin\Debug\net6.0\Regular Expression Matching 10.runtimeconfig.json
+C:\workspace\leetcode\Regular Expression Matching 10\bin\Debug\net6.0\Regular Expression Matching 10.dll
+C:\workspace\leetcode\Regular Expression Matching 10\bin\Debug\net6.0\Regular Expression Matching 10.pdb
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\Regular Expression Matching 10.csproj.AssemblyReference.cache
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\Regular Expression Matching 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\Regular Expression Matching 10.AssemblyInfoInputs.cache
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\Regular Expression Matching 10.AssemblyInfo.cs
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\Regular Expression Matching 10.csproj.CoreCompileInputs.cache
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\Regular Expression Matching 10.dll
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\refint\Regular Expression Matching 10.dll
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\Regular Expression Matching 10.pdb
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\Regular Expression Matching 10.genruntimeconfig.cache
+C:\workspace\leetcode\Regular Expression Matching 10\obj\Debug\net6.0\ref\Regular Expression Matching 10.dll
